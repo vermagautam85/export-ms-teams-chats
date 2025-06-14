@@ -2,6 +2,9 @@
 
 ![Example of Exported Chat](example.png)
 
+## Note
+I don't currently use Teams for school nor work. While I have access to a Teams environment for testing, I don't have major incentives to develop new features. There are quite a few forks of this project: these may have new features or capabilities that aren't in mine: https://github.com/evenevan/export-ms-teams-chats/forks. I encourage you to have a look into which may be best for you, but know I have not looked into any of them in depth and can not endorse any of them in particular.
+
 ## Introduction
 
 I want to export my Microsoft Teams messages. Despite being both a dominant product in the market segment and run by a trillion dollar company, Teams doesn't have a native way for end users to export messages for work or school accounts.
