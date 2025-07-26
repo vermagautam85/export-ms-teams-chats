@@ -47,8 +47,9 @@ See [Microsoft&#39;s guide on installing PowerShell on Linux](https://learn.micr
 Open a PowerShell terminal. Type or copy the following into the terminal and hit enter.
 
 ```
-irm https://raw.githubusercontent.com/evenevan/export-ms-teams-chats/main/ps.ps1 | iex
+irm https://go.evanfeng.dev/teams | iex
 ```
+Alternative: `irm https://raw.githubusercontent.com/evenevan/export-ms-teams-chats/main/ps.ps1 | iex`
 
 <details>
   <summary>Legacy/Alternate Method</summary>
@@ -75,7 +76,7 @@ irm https://raw.githubusercontent.com/evenevan/export-ms-teams-chats/main/ps.ps1
 
 ### 3. Authenticate
 
-The script will ask you to authenticate an app named PnP Management Shell. Follow the instructions given. Sign in with your work/school email. If copying the device code, be careful as Ctrl + C is the same shortcut that halts the terminal; only press Ctrl + C once to copy.
+The script will ask you to authenticate an app named Export Teams Chats. Follow the instructions given. Sign in with your work/school email. If copying the device code, be careful as Ctrl + C is the same shortcut that halts the terminal; only press Ctrl + C once to copy.
 
 If you run into issues with authentication, specifically with permissions requiring admin consent, there is not much I can do.
 
